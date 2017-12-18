@@ -1,0 +1,15 @@
+{
+  "name": "noderamsch",
+  "version": "0.0.0",
+  "description": "xlsx dateien umwandeln bzw. für browser nutzbar machen.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noa",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "3.0.0-rc0",
+    "xlsx": "^0.11.13"
+  }
+}
